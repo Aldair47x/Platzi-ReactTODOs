@@ -1,6 +1,6 @@
 <h1>♛ Platzi Curso de Introducción a React.js ♛ </h1>
 
-[![chrome_WCyIB5ZUaV](https://i.im.ge/2022/09/26/1NUfkq.chrome-WCyIB5ZUaV.md.gif)](https://im.ge/i/1NUfkq)
+[![chrome_WCyIB5ZUaV](https://i.im.ge/2022/09/26/1NUfkq.chrome-WCyIB5ZUaV.gif)](https://im.ge/i/1NUfkq)
 
 <h2>Problem Statement</h2>
 
